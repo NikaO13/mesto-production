@@ -1,4 +1,6 @@
-#Команда для запуска проекта
-`git push origin main`
+## 🚀 Команда для запуска проекта
+```bash
+git push origin main
+```
 Ссылка на проект
 https://github.com/NikaO13/mesto-production
