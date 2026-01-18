@@ -3,4 +3,4 @@
 git push origin main
 ```
 Ссылка на проект
-https://github.com/NikaO13/mesto-production
+https://nikao13.github.io/mesto-production/
